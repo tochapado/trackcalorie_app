@@ -1,0 +1,14 @@
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
+}
+
+.hidden {
+  display: none;
+}/*# sourceMappingURL=style.css.map */
+
+body {
+  background-color: #222;
+}
+
